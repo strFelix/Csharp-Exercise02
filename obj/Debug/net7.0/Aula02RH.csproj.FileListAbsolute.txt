@@ -1,0 +1,30 @@
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\bin\Debug\net7.0\Aula02RH.exe
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\bin\Debug\net7.0\Aula02RH.deps.json
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\bin\Debug\net7.0\Aula02RH.runtimeconfig.json
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\bin\Debug\net7.0\Aula02RH.dll
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\bin\Debug\net7.0\Aula02RH.pdb
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.csproj.AssemblyReference.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.AssemblyInfoInputs.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.AssemblyInfo.cs
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.csproj.CoreCompileInputs.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.dll
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\refint\Aula02RH.dll
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.pdb
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\Aula02RH.genruntimeconfig.cache
+D:\PastaLocal\Aulas - Ana, Edu, Lucas\DS - Desenvolvimento de sistemas\Aula02RH\obj\Debug\net7.0\ref\Aula02RH.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\bin\Debug\net7.0\Aula02RH.exe
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\bin\Debug\net7.0\Aula02RH.deps.json
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\bin\Debug\net7.0\Aula02RH.runtimeconfig.json
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\bin\Debug\net7.0\Aula02RH.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\bin\Debug\net7.0\Aula02RH.pdb
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.AssemblyInfoInputs.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.AssemblyInfo.cs
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\refint\Aula02RH.dll
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.pdb
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\Aula02RH.genruntimeconfig.cache
+C:\Users\Felix\Desktop\Projetos\ETEC\2Semestre\DS\Atividade02\Aula02RH\obj\Debug\net7.0\ref\Aula02RH.dll
